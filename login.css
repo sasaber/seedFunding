@@ -1,0 +1,81 @@
+.badge {
+    min-width: 15px;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 2;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 30px;
+    color: #393A3A;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.navbar-default{
+	background-color: #42E1c2;
+	border: 1px solid #42E1c2;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+
+label {
+	color: #393A3A;
+	margin-top: 10px; 
+}
+
+body {
+	background-color: #D683E8;
+	background-image: url('/Users/sarahsaber/Downloads/loading_screen_no_title.png');
+	font-family: helvetica;
+}
+
+
+.btn-primary {
+	background-color: white;
+	color: #393A3A;
+	border: 1px solid white;
+	width: 140px;
+}
+
+img {
+	margin: 50px;
+	padding-left: 5%;
+}
+
+.row {
+	padding-top: 3%;
+	margin-left: 10px;
+}
+
+form {
+	padding-top: 50px;
+	margin-left: 25px;
+	margin-right: 30px;
+}
+
+.padding-adjust {
+	padding-left: 15px;
+}
+
+p{
+	color: white;
+	text-align: center;
+	font-size: 24px;
+}
+
+.left {
+	margin-left: 20px;
+	padding-right:0;
+	width: 180px;
+}
+
+.right {
+	padding-left: 0;
+}
+
+.buttons + .row {
+	margin-top: 0;
+}
